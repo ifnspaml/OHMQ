@@ -1,0 +1,4 @@
+name,ids,hparams
+mnist_ohm_adaptive,484045,ch_fraction bottleneck_channels lambda_rd
+kodak_ohm_adaptive,484037,ch_fraction bottleneck_channels lambda_rd
+kodak_int_adaptive,483759,ch_fraction bottleneck_channels lambda_rd
