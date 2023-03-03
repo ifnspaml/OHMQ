@@ -1,0 +1,12 @@
+/experiments/
+/experiments_save/
+/data/
+/inference_results/
+/.idea/
+/checkpoints/
+/shared_experiments/
+test/data/
+test/experiments/
+test/inference_results/
+**/__pycache__
+

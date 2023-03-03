@@ -1,0 +1,17 @@
+name: ohm
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.9.12
+  - pytorch-lightning=1.3.8
+  - setuptools=58.0.4
+  - torchvision=0.11.1
+  - einops
+  - matplotlib
+  - pandas
+  - pip=22.0.4
+  - ninja
+  - pip:
+    - torchac==0.9.3

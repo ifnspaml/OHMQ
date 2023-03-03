@@ -1,0 +1,2 @@
+from .openimages_autoencoder import OpenimagesAutoencoder
+from .mnist_autoencoder import MnistAutoencoder
